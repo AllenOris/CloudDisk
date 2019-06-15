@@ -85,5 +85,10 @@ npm run build
 
 ## 示例图片
 
-![1560610654814](/home/allen/.config/Typora/typora-user-images/1560610654814.png)
+![1560610654814](https://github.com/AllenOris/CloudDisk/blob/master/CloudDisk-Client/src/assets/1.png?raw=true)
 
+![1560610654814](https://github.com/AllenOris/CloudDisk/blob/master/CloudDisk-Client/src/assets/2.png?raw=true)
+
+![1560610654814](https://github.com/AllenOris/CloudDisk/blob/master/CloudDisk-Client/src/assets/3.png?raw=true)
+
+![1560610654814](https://github.com/AllenOris/CloudDisk/blob/master/CloudDisk-Client/src/assets/4.png?raw=true)
