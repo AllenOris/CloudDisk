@@ -1,0 +1,17 @@
+define({
+  "name": "我的云盘",
+  "version": "1.0.0",
+  "description": "API文档",
+  "title": "Cloud Disk Api Doc",
+  "url": "http://localhost:3100/apidoc",
+  "forceLanguage": "zh-cn",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2019-06-15T14:12:39.260Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.7"
+  }
+});
